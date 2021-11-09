@@ -4,7 +4,7 @@ This a ping checker Bash Script when you what check multiple servers ping at sam
 it sort your servers ping low to high.
 
 
-##where to put your servers Address?
+## where to put your servers Address?
 well put them in server.txt of such that each of the server address are in a line.
 ex.
 server1address
@@ -13,7 +13,7 @@ server3address
 server4address
 ...
 
-##Parameters:
+## Parameters:
 
 1.you can change the number in line 9 to high number ex 6 for more accurate ping or low for a quick run.
 
@@ -23,7 +23,7 @@ ex.  ping -c 3 to average three times ping request.
 
 ex head -3 for best three servers.
 
-##what is log.txt file?
+## what is log.txt file?
 it is the compelete file with servers address and ping their ping, check it out.
 
 
